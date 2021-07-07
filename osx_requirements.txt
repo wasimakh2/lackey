@@ -12,3 +12,4 @@ pyperclip
 keyboard>=v0.9.13
 twine
 pytesseract
+pillow>=8.3.0 # not directly required, pinned by Snyk to avoid a vulnerability
